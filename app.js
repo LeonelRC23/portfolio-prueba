@@ -3,7 +3,7 @@ let habilidadesBackend = ["PHP", "Laravel", "MySQL", "Node.js", "Express", "Mong
 let habilidadesOtros = ["Git", "GitHub", "Docker", "Linux", "Windows", "Mantenimiento de PC", "Armado de PC"];
 
 const idPresentacion = document.getElementById("presentacion");
-idPresentacion.textContent = "Prueba";
+idPresentacion.textContent = "Estudiante de la tecnicatura en programacion (UTN). Desarrollo soluciones web enfocándome en código limpio y buenas prácticas usando React y Laravel. Me especializo en el desarrollo de webs eficientes con en arquitecturas de bases de datos robustas. Además del desarrollo de software, tengo sólidos conocimientos prácticos en hardware, armado de PCs y mantenimiento de equipos.";
 
 const idContenedorHabilidadesFrontend = document.getElementById('contenedor-habilidades-fronted');
 for (let i = 0; i < habilidadesFronted.length; i++) {
