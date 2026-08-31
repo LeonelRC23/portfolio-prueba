@@ -1,0 +1,40 @@
+#nombre {
+    font-size: 5rem;
+}
+
+#profesion {
+    font-size: 3rem;
+    color: #f0f0f0;
+}
+
+#presentacion {
+    font-size: 1.5rem;
+    color: #f0f0f0;
+}
+
+body {
+    background: #92a9f6;
+    color: #fff;
+}
+
+.btn-primary {
+    --bs-btn-bg: #1c30be;
+    --bs-btn-border-color: #1c30be;
+}
+
+.btn-secondary {
+    --bs-btn-bg: #7b61f2;
+    --bs-btn-border-color: #7b61f2;
+    --bs-btn-hover-bg: #5e3ed1;
+}
+
+#github{
+    font-size: 29px;
+}
+
+.tec {
+    background-color: #7b61f2;
+    border-color: #7b61f2;
+    border-radius: 4px;
+
+}
